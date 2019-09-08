@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vadim Martynov | Academic</title>
+    <link>/authors/vadim-martynov/</link>
+      <atom:link href="/authors/vadim-martynov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vadim Martynov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vadim Martynov</title>
+      <link>/authors/vadim-martynov/</link>
+    </image>
+    
+    <item>
+      <title>The speed of sequential asymptotic learning</title>
+      <link>/publication/social-learning-speed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/social-learning-speed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

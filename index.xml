@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Academic</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Weak and Strong ties</title>
+      <link>/weak-and-strong-ties/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/weak-and-strong-ties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The speed of sequential asymptotic learning</title>
+      <link>/publication/social-learning-speed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/social-learning-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subsidizing Lemons for Efficient information aggregation</title>
+      <link>/publication/subsidizing-lemons-for-efficient-information-aggregation/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/subsidizing-lemons-for-efficient-information-aggregation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
