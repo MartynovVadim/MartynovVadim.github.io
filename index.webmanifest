@@ -1,9 +1,9 @@
 {
-  "name": "Vadim Martynov",
-  "short_name": "Vadim Martynov",
+  "name": "Academic",
+  "short_name": "Academic",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
