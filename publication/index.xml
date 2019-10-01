@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Martynov%27s_gerb.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Job Market Paper: Weak and Strong Ties in Social Networks</title>
+      <link>/publication/weak-and-strong-ties/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/weak-and-strong-ties/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The speed of sequential asymptotic learning</title>
